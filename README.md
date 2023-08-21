@@ -3,11 +3,11 @@
     <h1 align="center">Hi 👋, I'm Oriana</h1>
     <h3 align="center">A Frontend Developer</h3>
 </div>
----
+
 
 
 <div align="left">
-    <h3>🔨 Languages and Tools:</h3>
+    <h3 align="center">🔨 Languages and Tools:</h3>
     <div align="center" >
         <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -25,5 +25,5 @@
       </div>
 </div>
 
----
+
 
