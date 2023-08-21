@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <img src="https://img.freepik.com/vector-premium/codigo-programacion-fondo-codificacion-o-hacker-icono-codigo-programacion-hecho-codigo-binario_127544-815.jpg?w=900" width="200" />
+    <img src="https://img.freepik.com/vector-premium/codigo-programacion-fondo-codificacion-o-hacker-icono-codigo-programacion-hecho-codigo-binario_127544-815.jpg?w=900" width="2000" />
     <h1 align="center">Hi 👋, I'm Oriana</h1>
     <h3 align="center">A Frontend Developer</h3>
 </div>
